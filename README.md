@@ -6,9 +6,13 @@ Olá, eu sou Luiz Otávio 👋
 
 🧠 Tecnologias e conhecimentos
 ☕ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="18"/> Java
+
 🗄️ MySQL
+
 🔧 Git e GitHub
+
 🧩 Lógica de Programação
+
 🎯 Objetivos
 
 Buscando minha primeira oportunidade em desenvolvimento back-end.
