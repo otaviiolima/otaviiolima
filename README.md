@@ -1,7 +1,9 @@
 Olá, eu sou Luiz Otávio 👋
 
 🎓 Estudante de Engenharia de Software
+
 💻 Focado em Java Back-end
+
 🚀 Aprendendo Spring Boot, APIs REST e MySQL
 
 🧠 Tecnologias e conhecimentos
