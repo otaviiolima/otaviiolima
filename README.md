@@ -1,16 +1,37 @@
-## Hi there 👋
+👋 Olá, eu sou Luiz Otávio
 
-<!--
-**otaviiolima/otaviiolima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software
+💻 Focado em Java Back-end
+🚀 Aprendendo Spring Boot, APIs REST e MySQL
 
-Here are some ideas to get you started:
+📊 GitHub Stats
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+🔥 Troque SEU_USUARIO_AQUI pelo seu username do GitHub
+
+🧠 Tecnologias e conhecimentos
+💻 Linguagens e ferramentas
+
+
+
+
+
+
+
+
+☕ Java
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java
+
+🚀 Atualmente estudando
+Spring Boot 🌱
+APIs REST 🔗
+Banco de Dados MySQL 🗄️
+Boas práticas de programação 🧠
+🎯 Objetivo
+
+Buscando minha primeira oportunidade como desenvolvedor back-end júnior, aplicando Java, Spring Boot e banco de dados em projetos reais.
+
+📫 Contato: otaviio.lima@hotmail.com
