@@ -5,7 +5,8 @@ Olá, eu sou Luiz Otávio 👋
 🚀 Aprendendo Spring Boot, APIs REST e MySQL
 
 🧠 Tecnologias e conhecimentos
-☕ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="18"/> Java
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="18"/> Java
 
 🗄️ MySQL
 
