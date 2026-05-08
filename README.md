@@ -19,5 +19,7 @@ Olá, eu sou Luiz Otávio 👋
 Buscando minha primeira oportunidade em desenvolvimento back-end.
 
 📫 Contato
+
 LinkedIn: Luiz Otávio Lima
+
 Email: otaviio.lima@hotmail.com
